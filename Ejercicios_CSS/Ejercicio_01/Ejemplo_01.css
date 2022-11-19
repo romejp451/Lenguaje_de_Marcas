@@ -1,0 +1,26 @@
+body{
+    background-color:aqua;
+    
+}
+p{
+    color:red;
+    text-align: center;
+
+}
+span{
+    color:yellow;
+
+}
+p{
+    color:purple;
+}
+span{
+    color: blue;
+}
+#sp1{
+    color: green;
+}
+.colorOrange{
+    color: orange;
+    
+}

@@ -1,0 +1,142 @@
+    body{
+        font-family: Times;
+    }
+    p1{
+        color: grey;
+        font-size: 30px;
+    }
+
+
+    #color1{
+        color: brown;
+    }
+    #color2{
+        color: blue;
+    }
+
+
+    p2{
+        color: blueviolet;
+        font-size: 30px;
+    }
+
+
+    #color3{
+        text-decoration: underline;
+    }
+    #f1{
+        color: red;
+    }
+    #f2{
+        color: blue;
+        font-style: italic;
+    }
+    #f3{
+        color: green;
+    }
+    #f4{
+        color:purple;
+    }
+    p3{
+        color: blue;
+        margin: 140px;
+    }
+
+
+
+    #tabla1{
+        color:orange;
+        text-align: center;
+        padding: 5px;
+    }
+    #t1{
+        border: 1px solid black;
+        width: 80px;
+    }
+    #t2{
+        border: 1px solid black;
+        width: 200px;
+    }
+    #t3{
+        border: 1px solid black;
+        width: 200px;
+    }
+
+
+
+    #tabla2{
+        text-align: center;
+        padding: 5px;
+    }
+    #t4{
+        color: orange;
+        border: 1px solid black;
+        width: 80px;
+    }
+    #t5{
+        color: brown;
+        border: 1px solid black;
+        width: 200px;
+    }
+    #t6{
+        color: brown;
+        border: 1px solid black;
+        width: 200px;
+    }
+
+
+    #tabla3{
+        text-align: center;
+        padding: 5px;
+    }
+    #t7{
+        color: brown;
+        border: 1px solid black;
+        width: 80px;
+    }
+    #t8{
+        color: red;
+        border: 1px solid black;
+        width: 200px;
+    }
+    #palabra{
+        color: orange;
+    }
+    #t9{
+        color: red;
+        border: 1px solid black;
+        width: 200px;
+    }
+
+
+    #tabla4{
+        color:brown;
+        text-align: center;
+        padding: 5px;
+    }
+    #t1{
+        border: 1px solid black;
+        width: 80px;
+    }
+    #t2{
+        border: 1px solid black;
+        width: 200px;
+    }
+    #t3{
+        border: 1px solid black;
+        width: 200px;
+    }
+
+
+    #parrafo3{
+        color: red;
+    }
+    #final1{
+        color: blue;
+    }
+    #final2{
+        color: orange;
+        text-decoration: underline;
+    }
+
+

@@ -1,0 +1,57 @@
+#recreo{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+#c1{
+    background-color: orange;
+}
+#c12:first{
+    background-color: none;
+}
+#f1::first-line{
+    font-weight: bold;
+}
+#f1::first-letter{
+    font-size: 200%;
+}
+.as::first-line{
+    text-transform: uppercase;
+}
+#v:last-child{
+    background-color: green;
+}
+#v:last-child:hover{
+    font-size: 200%;
+}
+#f-rojo:nth-child(2){
+    background-color: red;
+}
+#viernes:last-child:hover{
+    font-size: 200%;
+}
+#input{
+    background-color: pink;
+}
+#input:focus{
+    background-color: yellow;
+}
+.a1 :link{
+    color: green;
+    text-decoration: none;
+}
+.a1 :visited{
+    color: red;
+    text-decoration: none;
+}
+.a2 :link{
+    color: green;
+    text-decoration: none;
+}
+.a2 :visited{
+    color: red;
+    text-decoration: none;
+}
+
+
+

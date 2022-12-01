@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+}
+.menu{
+    background-color: whitesmoke;
+    width: 320px;
+    height: 550px;
+    margin-top: 20px;
+}
+#google, #twitter, #gmail, #facebook, #youtube, #google2{
+    font-size: 50px ;
+    margin: 10px;
+}
+.cuadro{
+    vertical-align: middle;
+}
+.items{
+    margin: 20px;
+    padding-top: 10px;
+}
+.container{
+    width: 230px;
+    height: 70px;
+    margin-top: 10px;
+}
+.container:hover{
+    background-color: rgb(242, 190, 190);
+}
+.decoracion{
+    text-decoration: none;
+    color: black;
+}

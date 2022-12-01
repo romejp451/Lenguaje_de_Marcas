@@ -1,0 +1,181 @@
+.inicio{
+    text-align: center;
+    margin: 10px;
+}
+.inicio .tabla{
+    padding:6px;
+    border-radius:5%;
+    border-spacing:0;
+    border: 10px;
+}
+.fila1 .f1{
+    border:1px solid black;
+    padding:5px;
+}
+.fila1 .f2{
+    border:1px solid black;
+    padding:5px;
+}
+.fila1 .f2 .img1{
+    margin-left: 30%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.fila1 .f3{
+    border:1px solid black;
+    padding:5px;
+}
+.fila1 .f3 .img2{
+    margin-left:15%;
+    width: 100px; 
+    height: 100px;
+}
+.fila2 .f1{
+    border:1px solid black;
+    padding:5px; 
+    height:20px; 
+    height:50px; 
+    font-weight:bold; 
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+.fila2 .f2{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px; 
+    width:80px;
+    background-color: grey;
+}
+.fila2 .f3{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px; 
+    width:00px;
+    background-color: grey;
+}
+.fila2 .f4{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px; 
+    width:80px;
+    background-color: grey;
+}
+.fila2 .f5{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px;
+    background-color: grey;
+}
+.fila2 .f6{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px;
+    background-color: grey;
+}
+.fila2 .f7{
+    border:1px solid black; 
+    padding:5px; 
+    height:20px;
+    background-color: grey;
+}
+.fila3 .f1{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+.fila3 .f2{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.fila3 .f3{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    text-align:center;
+}
+.fila3 .f3 .lista1{
+    color: red;
+}
+.fila3 .f4{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.fila3 .f5{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    background-color: cyan;
+}
+.fila3 .f5 .lista2{
+    color: red;
+}
+.fila4 .f1{
+    border:2px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+.fila4 .f2{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: cyan;
+}
+.fila4 .f3{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: cyan;
+}
+.fila5 .f1{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+.fila5 .f2{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: cyan;
+}
+.fila5 .f3{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: yellow;
+}
+.fila6 .f1{
+    border:1px solid black;
+    padding:5px;
+    height:20px;
+    font-weight:bold;
+    text-align:center;
+    background-color: cyan;
+}

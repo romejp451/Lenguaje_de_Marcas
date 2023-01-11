@@ -1,0 +1,153 @@
+body{
+    background-color: #252525;
+}
+nav a{
+    padding: 5px;
+    margin: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: whitesmoke;
+    color: black;
+    opacity: 90%;
+    border-radius: 20px;
+}
+nav a i{
+    font-size: 25px;
+    padding-right: 5px;
+}
+#cabecera{
+    background-color: #2c2c2c;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 3%;
+    box-shadow: inset 0px 0px 40px grey, 0px 0px 40px grey;
+}
+
+#cabecera img{
+    --s: 250px;
+    --b: 8px;
+    --g: 15px;
+    --c: #ffff;
+    
+    width: var(--s);
+    aspect-ratio: 1;
+    outline: calc(var(--s)/2) solid #2c2c2c;
+    outline-offset: calc(var(--s)-2);
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 110px;
+}
+#cabecera img:hover{
+    outline: var(--b) solid var(--c);
+    outline-offset: var(--g);
+}
+#cabecera img{
+    border-radius: 50%;
+}
+#sobre-mi{
+    background-color: whitesmoke;
+    border-radius: 100%;
+    text-align: center;
+    width: fit-content;
+    display: block;
+    justify-content: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-shadow: inset 0px 0px 40px #ff0, 0px 0px 40px #ff0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+#sobre-mi header{
+    margin-top: 20%;
+    padding-top: 5%;
+}
+#formacion{
+    background-color: #2c2c2c;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    margin-top: 20px;
+    box-shadow: 20px 20px 20px grey;
+}
+#skills{
+    background-color: rgb(88, 88, 88);
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    padding: 1%;
+}
+#skills h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#hard-skills, #soft-skills{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: solid;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 30px;
+    width: fit-content;
+    font-size: 20px;    
+}
+#contacto{
+    float: inline-end;
+}
+#hard-skills:hover, #soft-skills:hover{
+    background-color:rgb(72, 234, 240);
+    transition: 0.5s;
+    content: '';
+}
+#contacto{
+    text-align: center;
+    background: #2c2c2c;
+    color: aliceblue;
+    margin-top: 60px;
+}
+#contacto a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#email{
+    float: left;
+    margin-left: 28%;
+}
+#social-networks{
+    float: right;
+    margin-right: 28%;  
+}
+footer{
+    float: left;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+footer i{
+    color: white;
+}
+
+
+
+
+
